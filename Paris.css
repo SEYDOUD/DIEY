@@ -1,0 +1,20 @@
+
+h1{
+    visibility: visible;
+    color: black;
+    text-decoration: underline;
+    font-weight: bolder;
+}
+#titre{
+    color: black;
+    text-align: center;
+}
+nav h2 ul li{
+    display: inline-block;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-right: 20px;
+}
+body{
+    background-image: url("arriere.jpg");
+}

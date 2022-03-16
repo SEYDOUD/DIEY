@@ -1,0 +1,14 @@
+h1{
+    font-family: sans-serif;
+    text-align: center;
+    text-decoration: underline;
+}
+nav h2 ul li{
+    display: inline-block;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-right: 20px;
+}
+body{
+    background-image: url("plan.jpg");
+}

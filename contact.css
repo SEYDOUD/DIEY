@@ -1,0 +1,28 @@
+div h2{
+    text-align: center;
+    text-decoration: underline;
+}
+div h3{
+    text-decoration-color: rgb(9, 9, 12);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#img{
+    display: block;
+    margin: auto;
+    width: 450px;
+    height: 450px;
+}
+.DESTINATION{
+    text-decoration: black;
+    color: black;
+}
+nav h2 ul li{
+    display: inline-block;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-right: 20px;
+}
+body{
+    background-image: url("apcontact.jpg");
+    background-size: cover;
+}
